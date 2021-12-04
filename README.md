@@ -1,2 +1,2 @@
 # LEDrums
-hit reactive leds for drums
+Hit reactive leds for drums using fastLED library
