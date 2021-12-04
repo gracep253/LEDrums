@@ -1,3 +1,6 @@
 # LEDrums
 Hit reactive leds for drums using fastLED library
-![Bass Drum Demo](https://giphy.com/gifs/YHoLSE2mTkBJpM5pvV)
+
+![Bass Drum Demo](https://media.giphy.com/media/YHoLSE2mTkBJpM5pvV/giphy.gif)
+
+
